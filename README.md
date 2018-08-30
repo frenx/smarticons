@@ -7,7 +7,7 @@ Edits:
 - buttons with larger images
 
 
-For installing in Joomla:
+**For installing in Joomla:**
 - download ZIP of project
 - decompress
 - compress folder /com_smarticons to ZIP
