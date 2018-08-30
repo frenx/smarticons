@@ -10,5 +10,5 @@ Edits:
 For installing in Joomla:
 - download ZIP of project
 - decompress
-– compress folder /com_smarticons to ZIP
-– upload in Joomla component
+- compress folder /com_smarticons to ZIP
+- upload in Joomla component
