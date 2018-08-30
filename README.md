@@ -7,6 +7,8 @@ Edits:
 - buttons with larger images
 
 
+<br><br>
+
 **For installing in Joomla:**
 - download ZIP of project
 - decompress
